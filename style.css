@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background: url('https://i.giphy.com/cmegx6SssTKmEFEcwj.webp') no-repeat center center fixed;
+    background-size: cover;
+}
+.container {
+    text-align: center;
+    padding: 50px;
+    backdrop-filter: blur(5px); /* Arka planın bulanıklaşması */
+}
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 1.5em;
+    margin-bottom: 40px;
+}
+.team {
+    font-size: 1.2em;
+}
+.contact {
+    margin-top: 50px;
+    font-size: 1.2em;
+}
